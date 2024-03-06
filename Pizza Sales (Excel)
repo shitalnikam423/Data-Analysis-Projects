@@ -1,0 +1,48 @@
+Pizza Sales Data Analysis Project 
+
+Overview
+This project focuses on analyzing pizza sales data using a combination of Excel and SQL. 
+It provides insights into various aspects of pizza sales, helping to make data-driven decisions for business improvement.
+
+Link for my Interactive Excel Dashboard : https://onedrive.live.com/edit?id=CC1418CF8A69E3B7!118&resid=CC1418CF8A69E3B7!118&ithint=file%2cxlsx&authkey=!ADtaaaeR2u5eKoo&wdo=2&cid=cc1418cf8a69e3b7
+
+Features
+- Comprehensive pizza sales data analysis.
+- Utilization of both Excel and SQL for in-depth insights.
+- Easy-to-follow structure for better understanding and reproducibility.
+
+Prerequisites
+- Microsoft Excel 2021
+- SQL Server (SQL Server Management Studio)
+
+ Usage
+- The Excel file contains various sheets with different analyses and visualizations. 
+- The `sql_scripts` directory contains SQL scripts for specific analyses.
+- 
+  Excel Analysis
+- The Excel file includes sheets such as:
+    - Dataset 
+    - Trends for total Order
+    - Percentage of Sales
+    - Best & Worst sellers
+    - KPI
+    - Dashboard
+
+SQL Analysis
+- The `sql_scripts` directory includes scripts like:
+  A.	KPI’s :
+      1.	Total Revenue
+      2.	Average Order Value
+      3.	Total Pizzas Sold
+      4.	Total Orders
+      5.	Average Pizzas per Order
+  B. Charts Requirement :
+      1.	Daily Trend for total orders
+      2.	Hourly trend for total Orders
+      3.	Percentage of Sales by Pizza Category
+      4.	Percentage of Sales by Pizza Size
+      5.	Total Pizza sold by Pizza Category
+      6.	Top 5 Best Sellers by Total Pizza sold
+      7.	Bottom 5 Worst sellers by total pizzas sold
+
+ 
